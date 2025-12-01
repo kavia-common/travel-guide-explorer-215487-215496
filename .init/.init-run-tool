@@ -1,0 +1,4 @@
+{
+    "command": "npm run dev -- --port <port> --host <host>",
+    "working_directory": "/home/kavia/workspace/code-generation/travel-guide-explorer-215487-215496/travel_guide_frontend"
+}
